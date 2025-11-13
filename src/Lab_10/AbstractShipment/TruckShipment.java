@@ -1,4 +1,4 @@
-package Lab10.AbstractShipment;
+package Lab_10.AbstractShipment;
 
 import java.time.LocalDate;
 

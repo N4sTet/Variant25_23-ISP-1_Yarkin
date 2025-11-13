@@ -1,6 +1,6 @@
-package Lab10;
+package Lab_10;
 
-import Lab10.AbstractShipment.*;
+import Lab_10.AbstractShipment.*;
 import java.time.LocalDate;
 
 public class AbstractClasses {

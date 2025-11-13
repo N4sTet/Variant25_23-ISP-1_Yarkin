@@ -1,4 +1,4 @@
-package Lab10.AbstractShipment;
+package Lab_10.AbstractShipment;
 
 public abstract class TransportShipment extends Shipment {
     protected String transportType;
